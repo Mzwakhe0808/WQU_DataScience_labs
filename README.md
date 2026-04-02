@@ -2,7 +2,7 @@
 **WorldQuant University (2026)**
 
 ## Overview
-Completed a 16-week hands-on program with **8 end-to-end data science projects**.  
+Completed a 12-week hands-on program with **8 end-to-end data science projects**.  
 Gained practical experience in **data cleaning, exploratory analysis, machine learning, time-series forecasting, clustering, A/B testing, and deployment**.
 
 > ⚠️ Note: Course datasets and code are not shared due to WQU academic integrity policy.
